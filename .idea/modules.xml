@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.iml" filepath="$PROJECT_DIR$/01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.iml" filepath="$PROJECT_DIR$/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.iml" filepath="$PROJECT_DIR$/03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.iml" filepath="$PROJECT_DIR$/04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.iml" filepath="$PROJECT_DIR$/05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.iml" filepath="$PROJECT_DIR$/07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.iml" filepath="$PROJECT_DIR$/11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.iml" filepath="$PROJECT_DIR$/12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.iml" filepath="$PROJECT_DIR$/13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.iml" filepath="$PROJECT_DIR$/15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cat.iml" filepath="$PROJECT_DIR$/cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/du.iml" filepath="$PROJECT_DIR$/du.iml" />
+      <module fileurl="file://$PROJECT_DIR$/go-class.iml" filepath="$PROJECT_DIR$/go-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wc.iml" filepath="$PROJECT_DIR$/wc.iml" />
+    </modules>
+  </component>
+</project>
